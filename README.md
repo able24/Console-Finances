@@ -26,6 +26,8 @@ https://able24.github.io/Console-Finances/
 
 * The greatest decrease in losses (date and amount) over the entire period given.
 
+![Alt text](assets/images/Financial%20Analysis.jpg "Financial Analysis")
+
 
 ## Credits
 
