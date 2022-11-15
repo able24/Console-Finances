@@ -59,5 +59,5 @@ var result =
  //Print out result of analaysis in console and on the webpage
  console.log(result);
  document.body.innerText = result;
- document.body.style.backgroundColor = "skyblue";
+ document.body.style.backgroundColor = "lightseagreen";
 
