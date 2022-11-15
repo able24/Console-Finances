@@ -6,6 +6,11 @@ JavaScript code to analyse a company's finance data-set
 Create code using JavaScript for analyzing the financial records of a company. JavaScript variables, arrays functions and methods were used for creating this code that analyses the given dataset of a company.
 
 
+## App-link
+
+https://able24.github.io/Console-Finances/
+
+
 
 ## Usage
 
